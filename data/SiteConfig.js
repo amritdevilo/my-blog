@@ -4,8 +4,8 @@ const config = {
   siteTitleAlt: 'Tania Rascia',
   siteLogo: '/logos/logo-1024.png',
   siteUrl: 'https://www.taniarascia.com',
-  repo: 'https://github.com/taniarascia/taniarascia.com',
-  pathPrefix: '',
+  repo: 'https://github.com/amritdevilo/my-blog',
+  pathPrefix: 'my-blog',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
