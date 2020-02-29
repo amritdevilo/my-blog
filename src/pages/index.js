@@ -40,7 +40,7 @@ export default class Index extends Component {
               <div className="social-buttons">
                 <a
                   className="patreon"
-                  href="https://www.patreon.com/taniarascia"
+                  href="https://www.patreon.com/amritdevilo"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

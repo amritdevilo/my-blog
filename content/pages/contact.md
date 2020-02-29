@@ -16,13 +16,13 @@ Hi, I'm Tania - a full stack software developer based out of Chicago. I build op
   ></iframe>
 </div>
 
-If you have any comments, ideas, critiques, or you just want to say hi, don't hesitate to send me an email at [hello@taniarascia.com](mailto:hello[AT]taniarascia[DOT]com)!
+If you have any comments, ideas, critiques, or you just want to say hi, don't hesitate to send me an email at [amritdevilo@gmail.com](mailto:amritdevilo[AT]gmail[DOT]com)!
 
 ### Around the web
 
-- **Email**: [hello@taniarascia.com](mailto:hello[AT]taniarascia[DOT]com)
-- **GitHub**: [taniarascia](https://github.com/taniarascia)
-- **Twitter**: [taniarascia](https://twitter.com/taniarascia)
-- **Patreon**: [taniarascia](https://patreon.com/taniarascia)
-- **Ko-Fi**: [taniarascia](https://ko-fi.com/taniarascia)
-- **Feed**: [RSS](https://www.taniarascia.com/rss.xml)
+- **Email**: [amritdevilo@gmail.com](mailto:amritdevilo[AT]gmail[DOT]com)
+- **GitHub**: [amritdevilo](https://github.com/amritdevilo)
+- **Twitter**: [amritdevilo](https://twitter.com/AmritAgarwal10)
+- **Patreon**: [amritdevilo](https://patreon.com/amritdevilo)
+- **Ko-Fi**: [amritdevilo](https://ko-fi.com/taniarascia)
+- **Feed**: [RSS](https://www.amritdevilo.com/rss.xml)
