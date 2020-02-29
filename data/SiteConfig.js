@@ -1,9 +1,9 @@
 const config = {
-  siteTitle: 'Tania Rascia',
-  siteTitleShort: 'Tania Rascia',
-  siteTitleAlt: 'Tania Rascia',
+  siteTitle: 'Amrit Agarwal',
+  siteTitleShort: 'Amrit Agarwal',
+  siteTitleAlt: 'Amrit Agarwal',
   siteLogo: '/logos/logo-1024.png',
-  siteUrl: 'https://www.taniarascia.com',
+  siteUrl: 'https://www.amritdevilo.github.io/my-blog',
   repo: 'https://github.com/amritdevilo/my-blog',
   pathPrefix: 'my-blog',
   dateFromFormat: 'YYYY-MM-DD',
@@ -15,9 +15,9 @@ const config = {
   postDefaultCategoryID: 'Tech',
   newsletter: 'https://taniarascia.substack.com',
   newsletterEmbed: 'https://taniarascia.substack.com/embed',
-  userName: 'Tania',
-  userEmail: 'hello@taniarascia.com',
-  userTwitter: 'taniarascia',
+  userName: 'amritdevilo',
+  userEmail: 'amritdevilo@gmail.com',
+  userTwitter: 'amritdevilo',
   menuLinks: [
     {
       name: 'About me',
